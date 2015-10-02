@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shares>
+  <Share><MarketName>EBR</MarketName><ShareName>AGS</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>ASC</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>BREBT</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>CPINV</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>DIE</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>EURN</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>FAGR</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>GIMB</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>GRYFO</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>IMMO</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>IBAB</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>JEN</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>KBCA</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>MELE</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>ONTEX</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>PARD</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>CAT</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>PIC</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>ROU</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>STTL</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>SIOE</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>TNET</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>TESB</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>UMI</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>VGP</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>VAN</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>ZTS</ShareName></Share>
+  <Share><MarketName>EBR</MarketName><ShareName>BPOST</ShareName></Share>
+</Shares>
